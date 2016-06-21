@@ -80,7 +80,7 @@ gcc/g++ and make are required for building.
 
 To build gntp-send and the libraries required for integration run
 
-```cmake Cmakefile.txt
+``` cmake Cmakefile.txt
 
 ```cmd
     make -f Makefile
